@@ -24,6 +24,7 @@
 ✅ **Detaylı İlerleme Takibi**  
 - Haftalık performans raporları  
 - Zayıf nokta analizi  
+<div align="center"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="login.png" width="23%" alt="Giriş Ekranı"> <img src="home.png" width="23%" alt="Ana Sayfa"> <img src="learn.png" width="23%" alt="Öğrenme Modu"> <img src="progress.png" width="23%" alt="İlerleme Takip"> </div> </div>
 
 ## 🛠️ Teknoloji Stacki  
 
