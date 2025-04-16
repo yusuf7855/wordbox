@@ -1,4 +1,4 @@
-# 🌍 LanguageLearn - Akıllı Dil Öğrenme Uygulaması  
+# 🌍 WordBox - Akıllı Dil Öğrenme Uygulaması  
 
 **Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi**  
 
@@ -20,7 +20,9 @@
 ✅ **Detaylı İlerleme Takibi**  
 - Haftalık performans raporları  
 - Zayıf nokta analizi  
+Uygulama Görselleri:
 <div align="center"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="login.png" width="23%" alt="Giriş Ekranı"> <img src="home.png" width="23%" alt="Ana Sayfa"> <img src="learn.png" width="23%" alt="Öğrenme Modu"> <img src="progress.png" width="23%" alt="İlerleme Takip"> </div> </div>
+
 
 ## 🛠️ Teknoloji Stacki  
 
@@ -28,6 +30,15 @@
 pie
     title Kullanılan Teknolojiler
     "Flutter" : 45
-    "Firebase" : 30
+    "MongoDB" : 30
     "Dart" : 20
-    "Python (Backend)" : 5
+    "Node.js (Backend)" : 5
+
+
+## 📹 Tanıtım Videosu
+<div align="center">
+  <a href="https://youtu.be/xVxE4h9wYcs" target="_blank">
+    <img src="https://img.youtube.com/vi/örnek-video-linki/maxresdefault.jpg" width="80%" alt="LanguageLearn Tanıtım Videosu">
+  </a>
+  <p><em>Uygulamamızı yakından tanımak için videomuzu izleyin!</em></p>
+</div>
