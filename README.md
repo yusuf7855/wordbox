@@ -1,7 +1,7 @@
 🌍 LanguageLearn - Akıllı Dil Öğrenme Uygulaması
 Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi
 
-<div align="center"> <img src="[https://i.imgur.com/Jk5q0hE.png](https://imgur.com/a/srrz3tZ)" width="200"> <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p> </div>
+<div align="center"> <img src="https://i.imgur.com/Jk5q0hE.png" width="200"> <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p> </div>
 ✨ Öne Çıkan Özellikler
 ✅ Akıllı Kelime Öğrenme
 
