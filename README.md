@@ -1,31 +1,33 @@
-🌍 LanguageLearn - Akıllı Dil Öğrenme Uygulaması
-Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi
+# 🌍 LanguageLearn - Akıllı Dil Öğrenme Uygulaması  
 
-<div align="center"> <img src="https://imgur.com/a/srrz3tZ" width="200"> <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p> </div>
-✨ Öne Çıkan Özellikler
-✅ Akıllı Kelime Öğrenme
+**Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi**  
 
-Spaced Repetition algoritması
+<div align="center">
+  <img src="login.png" width="300" alt="LanguageLearn Giriş Ekranı">
+  <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p>
+</div>
 
-Bağlamsal öğrenme teknikleri
+## ✨ Öne Çıkan Özellikler  
 
-✅ Gerçekçi Diyalog Simülasyonları
+✅ **Akıllı Kelime Öğrenme**  
+- Spaced Repetition algoritması  
+- Bağlamsal öğrenme teknikleri  
 
-Sesli yanıt analizi
+✅ **Gerçekçi Diyalog Simülasyonları**  
+- Sesli yanıt analizi  
+- Günlük yaşam senaryoları  
 
-Günlük yaşam senaryoları
+✅ **Oyunlaştırılmış Öğrenme**  
+- Rozetler ve başarı sertifikaları  
+- Liderlik tablosu  
 
-✅ Oyunlaştırılmış Öğrenme
+✅ **Detaylı İlerleme Takibi**  
+- Haftalık performans raporları  
+- Zayıf nokta analizi  
 
-Rozetler ve başarı sertifikaları
+## 🛠️ Teknoloji Stacki  
 
-Liderlik tablosu
-
-✅ Detaylı İlerleme Takibi
-
-Haftalık performans raporları
-
-Zayıf nokta analizi
+```mermaid
 pie
     title Kullanılan Teknolojiler
     "Flutter" : 45
