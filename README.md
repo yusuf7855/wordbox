@@ -2,10 +2,6 @@
 
 **Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi**  
 
-<div align="center">
-  <img src="login.png" width="300" alt="LanguageLearn Giriş Ekranı">
-  <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p>
-</div>
 
 ## ✨ Öne Çıkan Özellikler  
 
