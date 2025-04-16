@@ -34,7 +34,3 @@ pie
     "Firebase" : 30
     "Dart" : 20
     "Python (Backend)" : 5
-
-
-
-<div align="center"> <img src="login.png" width="30%" alt="Giriş Ekran"> <img src="home.png" width="30%" alt="Ana Menü"> <img src="ilerleme.png" width="30%" alt="İlerleme Takip"> </div>
