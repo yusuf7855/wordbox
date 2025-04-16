@@ -1,16 +1,34 @@
-# wordbox
+🌍 LanguageLearn - Akıllı Dil Öğrenme Uygulaması
+Bilimsel yöntemlerle kalıcı dil öğrenme deneyimi
 
-A new Flutter project.
+<div align="center"> <img src="https://i.imgur.com/Jk5q0hE.png" width="200"> <p><em>Dinamik, kişiselleştirilmiş ve etkileşimli öğrenme</em></p> </div>
+✨ Öne Çıkan Özellikler
+✅ Akıllı Kelime Öğrenme
 
-## Getting Started
+Spaced Repetition algoritması
 
-This project is a starting point for a Flutter application.
+Bağlamsal öğrenme teknikleri
 
-A few resources to get you started if this is your first Flutter project:
+✅ Gerçekçi Diyalog Simülasyonları
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sesli yanıt analizi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Günlük yaşam senaryoları
+
+✅ Oyunlaştırılmış Öğrenme
+
+Rozetler ve başarı sertifikaları
+
+Liderlik tablosu
+
+✅ Detaylı İlerleme Takibi
+
+Haftalık performans raporları
+
+Zayıf nokta analizi
+pie
+    title Kullanılan Teknolojiler
+    "Flutter" : 45
+    "Firebase" : 30
+    "Dart" : 20
+    "Python (Backend)" : 5
